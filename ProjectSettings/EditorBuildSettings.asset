@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 0ae264f24d5520e43b1fe10c6b57d839
+  - enabled: 1
+    path: Assets/Scenes/InitialKinematic.unity
+    guid: cf93a43fb6b90e9468ed51e0b931da23
+  - enabled: 1
+    path: Assets/Scenes/0_Start.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/1_House.unity
+    guid: 99192d725a5faf745aef20bc2c4f1243
+  - enabled: 1
+    path: Assets/Scenes/2_HouseFirstFloor.unity
+    guid: 7ee43150e48aba942b7dd7017406d963
+  - enabled: 1
+    path: Assets/Scenes/3_Forest.unity
+    guid: 150e2d9b387cfd14ab6fd782109f7e9a
+  - enabled: 1
+    path: Assets/Scenes/4_Cave.unity
+    guid: 87025b329147beb4bb67425c4b54502e
+  - enabled: 1
+    path: Assets/Scenes/5_Lab.unity
+    guid: 122385d89d1b9aa4d8daa3872269aa27
+  - enabled: 1
+    path: Assets/Scenes/6_Death.unity
+    guid: 43a5e69d22f30ba4e8813831bf60dd6d
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 032739668476f6f4f8be59d714447949
+  m_configObjects: {}

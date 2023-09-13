@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - ToLevel0
+  - ToLevel1
+  - ToLevel2
+  - ToLevel3
+  - ToLevel4
+  - FirstAidKit
+  - WalkrosBlind
+  - ExitCockroach
+  - Firelight
+  - ToLevel5
+  - Event0
+  - EscapePointL3
+  - Enemy
+  - CameraEvent
+  - Event0Cin
+  - Event3Cin
+  - Event3.2Cin
+  - Event4
+  - SaveTrigger
+  - BirdObject
+  - TreeTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
